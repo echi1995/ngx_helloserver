@@ -1,0 +1,2 @@
+# ngx_helloserver
+用于nginx反向代理和负载均衡的一个demo服务
